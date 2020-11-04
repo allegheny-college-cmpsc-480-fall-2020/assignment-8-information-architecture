@@ -1,5 +1,5 @@
 # CMPSC 480: Assignment #8, Information Architecture
-* Point value: 30 pts.
+* Point value: 35 pts.
 * Due: 11 November
 
 ## Supporting readings
@@ -18,8 +18,8 @@ clearing up the order of your site or completely re-imagining it.
 
 Define your site's goal(s). You may have one or multiple; write these at the top of your site map document. These may be along the lines of:
 
-On a piece of paper or in a blank digital document, list all of the content that you expect to
-display on your site. Examples include (but are not limited to):
+On a piece of paper or in a blank digital document, list all of the content that you expect to display on your site. Examples include (but are not limited to):
+
 * Biography paragraph(s)
 * List(s) of skills
 * List(s) of appropriate projects
@@ -38,12 +38,10 @@ display on your site. Examples include (but are not limited to):
 
 A single document in the `writing` directory (in a format of your choice) which clearly incorporates and defines:
 
-* All content and content types you plan to include on your site
+* All content you plan to include on your site
 * Considers at least three levels of architecture: the main entry point/page, individual sections/pages, content contained therein
 * Pages or sections expected
-* Page and information hierarchy (e.g. content appearing first or more "important" listed higher)
 * Content planned for each page
-* Content diagram "legend" for identifying content types
 
 ### Grading criteria
 
